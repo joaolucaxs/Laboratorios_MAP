@@ -1,0 +1,12 @@
+./src/visitors/VisitorCalcularPerimetro.java
+./src/visitors/VisitorMaximizar.java
+./src/visitors/Visitor.java
+./src/visitors/VisitorCalcularArea.java
+./src/visitors/VisitorDesenhar.java
+./src/models/Forma.java
+./src/models/Circulo.java
+./src/models/Triangulo.java
+./src/models/Retangulo.java
+./src/models/Trapezio.java
+./src/main/Main.java
+./test/Testes.java
