@@ -1,0 +1,4 @@
+./src/adapters/ListToMap.java
+./src/adapters/MapToList.java
+./src/main/Main.java
+./test/Tests.java
